@@ -20,12 +20,12 @@ source-code: https://github.com/Appers1/puzzle-swap-collection
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Puzzle-Swap-Collection  
+title: puzzleswap  
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a collection of puzzles ready for new puzzlers
+tagline: a collection of puzzles ready for new owners
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Puzzle Swap Collection includes image files of 21 puzzles, either in boxes or completed, ready to swapped to new puzzlers. Most puzzles are created with recycled paper or cardboard, and they feature a range between 500 to 1,000 pieces."
+description: "Puzzleswap includes image files of 21 puzzles, either in boxes or completed, ready to swapped to new puzzlers. Most puzzles are created with recycled paper or cardboard, and they feature a range between 500 to 1,000 pieces."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Amanda Epperson
 
