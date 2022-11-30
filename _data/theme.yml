@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: puzzle017
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 8em
+home-title-y-padding: 12em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center
 
@@ -60,7 +60,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 # comma delimited list, reference url is automatic
 metadata-export-fields: "title,format,Brand,Pieces,Dimensions,Diagram,Materials,Age,Created,Notes"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: ",creator,format"
+metadata-facets-fields: "title,Branch,Pieces,Dimensions,Notes"
 
 ##########
 # ADVANCED OPTIONS
