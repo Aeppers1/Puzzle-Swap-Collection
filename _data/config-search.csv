@@ -1,7 +1,6 @@
 field,index,display
 title,true,true
-date,false,false
-created,true,false
 Brand,true,true
-Pieces,true,true
+Diagram,true,true 
 Age,true,true
+Pieces,true,true
