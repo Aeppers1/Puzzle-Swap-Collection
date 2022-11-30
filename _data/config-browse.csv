@@ -1,7 +1,6 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-Brand,,true
 title,,title
-pieces,,true
+Brand,,true
+Pieces,,true
 Diagram,,true
 Age,,true
